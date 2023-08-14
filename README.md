@@ -20,7 +20,12 @@ Our primary dataset is sourced from Medicare Physician and Other Practitioners P
 
 * Visualization in Power BI. Our Power BI visualization serves as a dynamic visual representation of our findings. This interactive visualization aids in understanding the data-driven narrative and allows users to explore the insights on their terms.
 
-* Python Code for Data Manipulation For those interested in the technical aspects, we provide Python code that demonstrates the steps taken to clean, organize, and manipulate the dataset. This code is intended to enhance transparency and facilitate reproducibility.
+* Python Code for Data Manipulation. For those interested in the technical aspects, we provide Python code that demonstrates the steps taken to clean, organize, and manipulate the dataset. This code is intended to enhance transparency and facilitate reproducibility.
+
+* Cleaned and Prepared Data. The cleaned and prepared dataset is available in `Data.csv. This file contains the data used for our analysis after the necessary preprocessing steps.
+
+* Original Data Example. We have also provided an example of the original data for reference. The file `Original_Data_Example_MUP_PHY_R22_P05_V10_D20_Prov_Svc.csv` includes a subset of the raw data as it was initially obtained.
+ 
 
 4)Resources:
 
