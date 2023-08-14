@@ -8,9 +8,9 @@ Our primary dataset is sourced from Medicare Physician and Other Practitioners P
 
 2)Task Our project is twofold:
 
-*Analysis of E&M CPT Coding Practices: We extensively analyze E&M coding practices in the Central Florida counties of Volusia, Flagler, Seminole, Brevard, St. Johns, Marion, and Putnam. We aim to uncover these areas' trends, patterns, and potential variations.
+* Analysis of E&M CPT Coding Practices: We extensively analyze E&M coding practices in the Central Florida counties of Volusia, Flagler, Seminole, Brevard, St. Johns, Marion, and Putnam. We aim to uncover these areas' trends, patterns, and potential variations.
 
-*1-Page Visualization and Storytelling: As part of our analysis, we create a concise yet informative 1-page visualization that tells the story hidden within the data. This visualization encapsulates key insights and trends, making the information accessible and engaging.
+* 1-Page Visualization and Storytelling: As part of our analysis, we create a concise yet informative 1-page visualization that tells the story hidden within the data. This visualization encapsulates key insights and trends, making the information accessible and engaging.
 
 3)Artifacts:
 
