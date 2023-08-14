@@ -2,7 +2,7 @@
 
   Welcome to the GitHub repository for our comprehensive analysis of Evaluation and Management (E&M) CPT coding practices in various Central Florida counties. This project aims to shed light on the complexities of medical coding practices, unraveling insights that contribute to a deeper understanding of regional healthcare trends.
 
-1) Data Source:
+1)Data Source:
 
 Our primary dataset is sourced from Medicare Physician and Other Practitioners Provider Summary - (https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service) available through the Centers for Medicare & Medicaid Services (CMS). This dataset provides a rich foundation for exploring E&M coding patterns.
 
