@@ -18,7 +18,9 @@ Our primary dataset is sourced from Medicare Physician and Other Practitioners P
 
 * 1-Page Summary of Findings. This brief document encapsulates the outcomes of our analysis. It distills the complexities of E&M coding practices into a concise summary, highlighting significant trends and potential implications.
 
-* Visualization in Power BI. Our Power BI visualization serves as a dynamic visual representation of our findings. This interactive visualization aids in understanding the data-driven narrative and allows users to explore the insights on their terms. 4)Python Code for Data Manipulation For those interested in the technical aspects, we provide Python code that demonstrates the steps taken to clean, organize, and manipulate the dataset. This code is intended to enhance transparency and facilitate reproducibility.
+* Visualization in Power BI. Our Power BI visualization serves as a dynamic visual representation of our findings. This interactive visualization aids in understanding the data-driven narrative and allows users to explore the insights on their terms.
+
+* Python Code for Data Manipulation For those interested in the technical aspects, we provide Python code that demonstrates the steps taken to clean, organize, and manipulate the dataset. This code is intended to enhance transparency and facilitate reproducibility.
 
 4)Resources:
 
